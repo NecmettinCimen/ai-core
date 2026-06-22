@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AiCore.Application/AiCore.Application.csproj" />
+  <Project Path="AiCore.Domain/AiCore.Domain.csproj" />
+  <Project Path="AiCore.Infrastructure/AiCore.Infrastructure.csproj" />
+  <Project Path="AiCore.WebApi/AiCore.WebApi.csproj" />
+</Solution>
