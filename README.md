@@ -53,6 +53,7 @@ This project is an enterprise-grade .NET 10 Web API that demonstrates modern AI 
 - [Scalar.AspNetCore](https://github.com/scalar/scalar) - API documentation
 - [Docker](https://www.docker.com/) - Containerization
 - [Docker Compose](https://docs.docker.com/compose/) - Multi-container orchestration
+- [Kubernetes](https://kubernetes.io/) - Container orchestration
 
 ---
 
